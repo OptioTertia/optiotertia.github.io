@@ -8,7 +8,7 @@ Too much input and not enough output leads to bloat. Trying to think more clearl
 
 Some favourite quotes:
 
-> You have enemies? Good. That means you’ve stood up for something, sometime in your life -- Winston Churchill
+> "You have enemies? Good. That means you’ve stood up for something, sometime in your life." -- Winston Churchill
 
 > “It is easy to write. Just sit in front of your typewriter and bleed.” -- Ernest Hemmingway
 
