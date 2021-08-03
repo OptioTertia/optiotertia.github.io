@@ -4,26 +4,16 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+Too much input and not enough output leads to bloat. Trying to think more clearly through writing and making sense of everything I'm imbibing.
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+Some favourite quotes: 
 
-## Features
+> “You have enemies? Good. That means you’ve stood up for something, sometime in your life” -- Winston Churchill
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+> “It is easy to write. Just sit in front of your typewriter and bleed.” -- Ernest Hemmingway
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+> “The most exciting phrase to hear in science, the one that heralds new discoveries, is not, ‘Eureka! I’ve found it,’ but, ‘That’s funny!''" -- Isaac Asimov
+
+> "If you never fail, you're only trying things that are too easy and playing far below your level." -- Eliezer Yudkowsky
+
+> "Our century is excellent at the production of nightmares and terrible at the interpretation of dreams." -- Anne Boyer
