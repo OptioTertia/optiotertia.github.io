@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Paths of Least Resistance?
-categories: [USA, China, Innovation]
+categories: [USA, China, Innovation, Variance]
 ---
 
 To what extent has America's innovation with bits, rather than atoms, since the 1970s a function of increased regulation or a cornucopia of new opportunities?
@@ -10,7 +10,7 @@ To what extent is China innovating rather than copying because it is easier or b
 
 I shouldn't need to provide any examples beyond the atom bomb to outline that technology is power and those nations with the best technology will dominate. Thus it is crucial to understand the drivers behind technological progress and innovation.
 
-As a brief aside, when I say innovation I mean more science than engineering. Richard Hamming once said: "In science, if you know what you are doing, you should not be doing it. In engineering, if you do not know what you are doing, you should not be doing it." Yes, an idea in and of itself is useless without execution and there are blurred lines where plenty of engineering requires unique solutions to satisfy constraints of the real world [^AltmanCreativity]. However, the biggest challenge is going from "Zero to One".
+As a brief aside, when I say innovation I mean more science than engineering. Richard Hamming once said: "In science, if you know what you are doing, you should not be doing it. In engineering, if you do not know what you are doing, you should not be doing it." Yes, an idea in and of itself is useless without execution and there are blurred lines where plenty of engineering requires unique solutions to satisfy constraints of the real world [[^AltmanCreativity]]. However, the biggest challenge is going from "Zero to One".
 
 Peter Thiel has argued that the US has stagnated in atoms due to regulation and that China is busy copying and so its creative chops haven't yet been put to the test. I think there are great arguments for both but want to put forward the alternatives (tech opportunities in America and a lack creativity in China) as being additional, important influences.
 
@@ -19,14 +19,14 @@ Bill Gates once said that Microsoft's biggest competitor was Goldman Sachs becau
 <div align="center">
   <img width="500"  src="../images/posts/PathsOfLeastResistance/MCap.png">
   <br>
-  <em> The top 10 largest companies in the world, by market cap, as of August 2021. See <a href=https://www.tradingview.com/markets/stocks-usa/market-movers-large-cap/>here</a> for an up to date list. </em>  
+  <em> The top 10 largest companies in the world, by market cap, as of August 2021. See <a href="https://www.tradingview.com/markets/stocks-usa/market-movers-large-cap/">here</a> for an up to date list. </em>  
 </div>
 
 As for China, I have long grappled with whether or not their educational system, culture, and governmental policies support or hinder innovation. On one hand, the ability to invent a new kind of circuit board should be orthogonal to ones ability to speak freely about Xi Jingping. Moreover, the Chinese government ploughs billions into venture funding and the population's high average IQs, work ethic, and sheer population size mean there are a lot of geniuses present.
 
 However, I believe that humans are bad at compartmentalizing scientific innovation and everyday freedoms. People talk remorsefully about Isaac Newton dedicating so much of his time to alchemy rather than inventing even more of modern mathematics. This is easy to say with 20/20 hindsight but Newton's fascination with both mathematics and alchemy come from the same underlying source of curiosity and his maverick nature. [Scott Alexander](https://slatestarcodex.com/2017/10/23/kolmogorov-complicity-and-the-parable-of-lightning/) along the same lines writes about how many creative geniuses were burned at the stake by the Church for their iconoclasm. Why couldn't these inventors just keep to their science? Like moths attracted to fire they inherently can't help but be drawn to exploring the flames...
 
-Beyond curiosity being all consuming, China's Confucian values of filial piety, a lack of free speech that Sam Harris once described as "sunlight on bad ideas", and no invisible hand of the market all hamstring Schumpeterian creative destruction and innovation. Finally, [Gwern](https://www.gwern.net/Conscientiousness-and-online-education) makes the argument that given IQ and conscientiousness are uncorrelated, the more our education and status allocation systems erect additional hoops that require conscientiousness to jump through, the more those in positions for innovation will lack IQ and creativity[^IQandCreativity]. Just try to imagine Feynman, Einstein, or Shannon taking all of the extra-curriculars, AP exams and SATs necessary to get into the best universities and stay atop the greasy academic status pole. This weighting on conscientiousness rather than IQ is only more true for China with its formidable gaokao exams. An interesting side point Gwern highlights is that online education will increase demands on conscientiousness...
+Beyond curiosity being all consuming, China's Confucian values of filial piety, a lack of free speech that Sam Harris once described as "sunlight on bad ideas", and no invisible hand of the market all hamstring Schumpeterian creative destruction and innovation. Finally, [Gwern](https://www.gwern.net/Conscientiousness-and-online-education) makes the argument that given IQ and conscientiousness are uncorrelated, the more our education and status allocation systems erect additional hoops that require conscientiousness to jump through, the more those in positions for innovation will lack IQ and creativity[[^IQandCreativity]]. Just try to imagine Feynman, Einstein, or Shannon taking all of the extra-curriculars, AP exams and SATs necessary to get into the best universities and stay atop the greasy academic status pole. This weighting on conscientiousness rather than IQ is only more true for China with its formidable gaokao exams. An interesting side point Gwern highlights is that online education will increase demands on conscientiousness...
 
 ---
 
@@ -40,7 +40,7 @@ Ben relates this to the pandemic response specifically but I think he means it m
 >
 > I would in fact much prefer the policy landscape of the United States, where the two parties are hardly afraid to attack each other, often in the most ridiculous of terms.  Just keep this comparison in mind the next time you despair over the course -- and aesthetics -- of U.S. politics.
 
-Innovation and research is like VC in that it is high risk and high reward with low probabilities of success. There is finite cost to losing 100% of ones investment but almost unlimited upside. Having higher variance in this way can extend to many domains[^maleIQ]... but there are some useful caveats outlined in [Applied Divinity Studies](https://applieddivinitystudies.com/asymmetric/):
+Innovation and research is like VC in that it is high risk and high reward with low probabilities of success. There is finite cost to losing 100% of ones investment but almost unlimited upside. Having higher variance in this way can extend to many domains[[^maleIQ]]... but there are some useful caveats outlined in [Applied Divinity Studies](https://applieddivinitystudies.com/asymmetric/):
 
 > The downside of going on a first date isn’t having a mediocre dinner and then getting ghosted. It’s that they become your stalker and you have to get a restraining order. Or that they sexually assault you. Or accuse you of sexually assaulting them.
 
@@ -51,7 +51,7 @@ Lingering questions:
   - The Atom bomb is a case where first mover advantage was decisive. Telecommunications is a case where leapfrogging over land lines and moving straight to mobile phones may have been an advantage as many Americans remain quagmired in cash or at best credit cards. This isn't to say that having the land lines and sparking the entire internet revolution was not worthwhile, just that there are real path dependencies and the utility of being a first mover can change over different time horizons.
 - What makes the US so high variance?
 - Is there limited downside to the US's high variance strategy? Does sampling from the bottom of the distribution result in a Minuteman nuke [accidentally detonating](https://smile.amazon.com/Command-Control-Damascus-Accident-Illusion/dp/0143125788?sa-no-redirect=1)?
-  - Are there checks and balances in the US that make it more resistant to the downsides? Or have we been lucky to keep rolling 20s? 
+  - Are there checks and balances in the US that make it more resistant to the downsides? Or have we been lucky to keep rolling 20s?
 
 ### Footnotes
 * footnotes will be placed here. This line is necessary
