@@ -46,12 +46,16 @@ Innovation and research is like VC in that it is high risk and high reward with 
 
 I think this is where free speech and capitalism come in as a backstop on the maximum downsides. This brings to mind one of my favourite pieces from Gwern, "[Evolution as Backstop for Reinforcement Learning](https://www.gwern.net/Backstop)", which outlines inner and outer optimization loops where in the case of companies, the outer loop is capitalism, in the case of humans doing dumb things, the outer loop is pain. Free speech is the outer loop for... bad ideas? It seems clear that free speech and capitalism enable failing fast and preventing bad draws from the high variance distribution of US outcomes such that the US continues to be the most innovative and stay intact.
 
+---
+
 Lingering questions:
 - How important are first mover advantages? If China can always stay 6 months behind does it not matter if they are the ones innovating?
   - The Atom bomb is a case where first mover advantage was decisive. Telecommunications is a case where leapfrogging over land lines and moving straight to mobile phones may have been an advantage as many Americans remain quagmired in cash or at best credit cards. This isn't to say that having the land lines and sparking the entire internet revolution was not worthwhile, just that there are real path dependencies and the utility of being a first mover can change over different time horizons.
 - What makes the US so high variance?
 - Is there limited downside to the US's high variance strategy? Does sampling from the bottom of the distribution result in a Minuteman nuke [accidentally detonating](https://smile.amazon.com/Command-Control-Damascus-Accident-Illusion/dp/0143125788?sa-no-redirect=1)?
   - Are there checks and balances in the US that make it more resistant to the downsides? Or have we been lucky to keep rolling 20s?
+
+---
 
 ### Footnotes
 * footnotes will be placed here. This line is necessary
