@@ -48,8 +48,26 @@ I think this is where free speech and capitalism come in as a backstop on the ma
 
 ---
 
+Update August 24th 2021.
+
+I think the cultural and commercial outputs of Japan and South Korea are interesting counter points to my critiques of China's innovative capabilities. Manga, Anime, K-Pop, Sony, LG, Samsung are all examples that come to mind. Right now I think that the shared Confucian values and lack of libertarian [WEIRD](https://www.goodreads.com/book/show/51710349-the-weirdest-people-in-the-world?ac=1&from_search=true&qid=zijSLYZtqo&rank=1#) social norms are dampeners but what makes China unique is its crippling freedom of speech/expression laws.
+
+What other countries can be looked to for how political suppression kills creativity (or its vectors)? Singapore? It's population seems to have very high average IQs and be highly competent but they lacks any major cultural outputs or dramatically successful companies. However, there are plenty of confounders, most notably how tiny it is.
+
+I want to go further in acknowledging the complexity of creating an innovative culture. This figure I think most compellingly shows this is:
+
+<div align="center">
+  <img width="500"  src="../images/posts/PathsOfLeastResistance/EconomistCompanies.jpg">
+  <br>
+  <em> But Europe has free speech and is [WEIRD](https://www.goodreads.com/book/show/51710349-the-weirdest-people-in-the-world?ac=1&from_search=true&qid=zijSLYZtqo&rank=1#)?</em>  
+</div>
+
+Why does the US specifically create so many innovations and dominant companies? I think it is hard to understate how important immigration since WWII into the US has been. First, the greatest scientific minds of Europe, I think this is most spectacularly captured [here](https://slatestarcodex.com/2017/05/26/the-atomic-bomb-considered-as-hungarian-high-school-science-fair-project/). And even today the best and brightest minds still come to the US. Moreover, because it remains so damn hard for even the most talented to do so, they are also incredibly high in conscientiousness. According to [this article](https://www.forbes.com/sites/stuartanderson/2018/10/25/55-of-americas-billion-dollar-startups-have-immigrant-founder/?sh=5a4a8d2d48ee) (and I've seen others crop up) 55% of billion dollar startups in the US are founded by at least one immigrant. If you need an archetype, think of the South African Elon Musk.
+
+---
+
 Lingering questions:
-- How important are first mover advantages? If China can always stay 6 months behind does it not matter if they are the ones innovating?
+- For innovation and military might, how important are first mover advantages? If China can always stay 6 months behind does it not matter if they are the ones innovating?
   - The Atom bomb is a case where first mover advantage was decisive. Telecommunications is a case where leapfrogging over land lines and moving straight to mobile phones may have been an advantage as many Americans remain quagmired in cash or at best credit cards. This isn't to say that having the land lines and sparking the entire internet revolution was not worthwhile, just that there are real path dependencies and the utility of being a first mover can change over different time horizons.
 - What makes the US so high variance?
 - Is there limited downside to the US's high variance strategy? Does sampling from the bottom of the distribution result in a Minuteman nuke [accidentally detonating](https://smile.amazon.com/Command-Control-Damascus-Accident-Illusion/dp/0143125788?sa-no-redirect=1)?
