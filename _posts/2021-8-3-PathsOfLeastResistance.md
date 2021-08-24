@@ -59,7 +59,7 @@ I want to go further in acknowledging the complexity of creating an innovative c
 <div align="center">
   <img width="500"  src="../images/posts/PathsOfLeastResistance/EconomistCompanies.jpg">
   <br>
-  <em> But Europe has free speech and is [WEIRD](https://www.goodreads.com/book/show/51710349-the-weirdest-people-in-the-world?ac=1&from_search=true&qid=zijSLYZtqo&rank=1#)?</em>  
+  <em> But Europe has free speech and is <a href="https://www.goodreads.com/book/show/51710349-the-weirdest-people-in-the-world?ac=1&from_search=true&qid=zijSLYZtqo&rank=1">WEIRD</a>?</em>  
 </div>
 
 Why does the US specifically create so many innovations and dominant companies? I think it is hard to understate how important immigration since WWII into the US has been. First, the greatest scientific minds of Europe, I think this is most spectacularly captured [here](https://slatestarcodex.com/2017/05/26/the-atomic-bomb-considered-as-hungarian-high-school-science-fair-project/). And even today the best and brightest minds still come to the US. Moreover, because it remains so damn hard for even the most talented to do so, they are also incredibly high in conscientiousness. According to [this article](https://www.forbes.com/sites/stuartanderson/2018/10/25/55-of-americas-billion-dollar-startups-have-immigrant-founder/?sh=5a4a8d2d48ee) (and I've seen others crop up) 55% of billion dollar startups in the US are founded by at least one immigrant. If you need an archetype, think of the South African Elon Musk.
