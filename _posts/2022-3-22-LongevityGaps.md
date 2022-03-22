@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  So you want to live longer?
-categories: [Longevity]
+categories: [Longevity, Biology]
 ---
 
 What longevity practitioners seem to be missing: the importance of exercise and risks from immunosuppression.
@@ -9,7 +9,7 @@ What longevity practitioners seem to be missing: the importance of exercise and 
 I only know a few people taking deliberate steps to maximize their longevity. However, there are a couple of things that seem suboptimal in their approaches:
 
 **Diet over Exercise:**
-- All of these longevity practitioners are very skinny and barely exercise. I think this is a combination of laziness and calorific restriction where they just lack the energy for it.
+- These longevity practitioners are skinny and rarely exercise. I think this is a combination of laziness and calorific restriction where they just lack the energy for it.
 
 - Even in the excellent [Longevity FAQ](https://nintil.com/longevity/) there is a complete lack of info on exercise and its influence on potential aging pathways.
 
