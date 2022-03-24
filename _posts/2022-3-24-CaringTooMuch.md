@@ -24,6 +24,7 @@ TLDR; matching spending to the probability of x-risk and or spending all on tech
 
 Related: Tyler Cowen, in [Stubborn Attachments](https://smile.amazon.com/Stubborn-Attachments-Prosperous-Responsible-Individuals/dp/1732265135?sa-no-redirect=1), argues the most important thing is maximizing GDP growth because of the optionality it buys us. Paul Bloom has a whole book [Against Empathy](https://smile.amazon.com/Against-Empathy-Case-Rational-Compassion/dp/0062339338?sa-no-redirect=1) related to the concerns of my first paragraph.
 
+To be perfectly clear, I am not endorsing that we should thrown caution to the wind plucking whatever fruit from the tree of technology looks ripest. The costs I have mentioned may be worth paying for the very real threats of dual use, info hazards, and the inherent asymmetric advantage of offense. But I think it is worth raising my concerns and their costs nevertheless. Maybe there is a third alternative where we can have our cake and eat it too. 
 
 ### Footnotes
 * footnotes will be placed here. This line is necessary
