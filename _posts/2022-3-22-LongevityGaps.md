@@ -9,7 +9,7 @@ What longevity practitioners seem to be missing: the importance of exercise and 
 I only know a few people taking deliberate steps to maximize their longevity. However, there are a couple of things that seem suboptimal in their approaches:
 
 **Diet over Exercise:**
-- These longevity practitioners are skinny and rarely exercise. I think this is a combination of laziness and calorific restriction where they just lack the energy for it.
+- These longevity practitioners are skinny and rarely exercise. I think this may be a combination of finite willpower and calorific restriction where they just lack the energy for it.
 
 - Even in the excellent [Longevity FAQ](https://nintil.com/longevity/) there is a complete lack of info on exercise and its influence on potential aging pathways.
 
@@ -19,7 +19,7 @@ I only know a few people taking deliberate steps to maximize their longevity. Ho
 
 **Immunological Risks:**
 
-- Longer, more severe infections have immediate effects in suffering, reduced productivity and longer term risks of auto-immune disorders -- the neurological ones are the most concerning and we have likely only just seen the tip of the iceberg here.
+- Longer, more severe infections have immediate effects in suffering, reduced productivity and longer term risks of auto-immune disorders -- the neurological ones are the most concerning and we have likely only just seen the tip of the iceberg here. These disorders can not only significantly reduce longevity but make life not worth living.
 
 - With a number of researchers long suspecting a link between Epstein-Barr virus and multiple sclerosis, a few months ago we got [strong causal proof](https://www.jwatch.org/na54567/2022/02/01/strong-evidence-epstein-barr-virus-one-trigger-multiple). EBV looks a lot like the myelin sheaths that wrap around neurons and infection can induce an auto-immune response that leads to multiple sclerosis and it's awful symptoms. What other infections that cause neurological disorders and degeneration are there? Long COVID is particularly topical. Meanwhile, this [paper reviews](https://ajp.psychiatryonline.org/doi/full/10.1176/appi.ajp.2020.20111598) connections between rapid OCD onset (within 24 to 48 hours!) and strep infections that produce antibodies which inadvertently target a region of our basal ganglia responsible for habit formation. In the paper they summarize another study where:
 
